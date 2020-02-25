@@ -1,2 +1,2 @@
-# Python-Data-Mining
-Data Mining Python code 
+# Python-Web-Scraping
+Web Scraping Python code 
